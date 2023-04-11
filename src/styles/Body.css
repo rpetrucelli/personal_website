@@ -1,0 +1,40 @@
+.body{
+    display: flex;
+    flex-direction: row;
+    height: calc(100% - 10px);
+}
+
+.main-with-side-dark, .main-with-side-light, .main-without-side-dark, .main-without-side-light{
+    padding: 50px;
+    margin: 10px;
+    font-size: 10pt;
+    text-align: center;
+}
+
+.main-with-side-dark{
+    width: calc(90% - 10px);
+    color: aquamarine;
+    border: 2pt solid lightsalmon;
+}
+
+.main-with-side-light{
+    width: calc(90% - 10px);
+    color: black;
+    border: 2pt solid black;
+}
+
+.main-without-side-dark{
+    width: calc(100%);
+    color: aquamarine;
+    border: 2pt solid lightsalmon;
+}
+
+.main-without-side-light{
+    width: calc(100%);
+    color: black;
+    border: 2pt solid black;
+}
+.sidetoggle{
+    margin-left: 10px;
+    max-height: 10px;
+}

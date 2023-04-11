@@ -1,0 +1,31 @@
+.nav-dark, .nav-light{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 9px 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 2px;
+  }
+
+.nav-dark{
+  border: 2pt solid lightsalmon;
+}
+
+.nav-light{
+  border: 2pt solid black;
+}
+
+.nav-item-dark, .nav-item-light{
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: space-between;
+}
+
+.nav-item-dark{
+  color:aquamarine;
+}
+
+nav-item-light{
+  color: black;
+}

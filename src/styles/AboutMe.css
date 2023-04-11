@@ -1,0 +1,32 @@
+.no-bullets{
+    list-style-type: none;
+    display: inline-flex;
+    align-items: center;
+  }
+
+.skill-item{
+  margin: 10px;
+}
+
+.about-me{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  text-align: center;
+  align-items: center;
+  height: 100%;
+}  
+
+.img{
+  margin-left: 20px;
+  margin-right: 10px;
+  height: 250px;
+  width: 280px;
+  float:left;
+}
+
+.description{
+  width: calc(100% - 330px);
+  margin: 10px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,16 @@
+.feedback{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-self: center;
+    height: 100%;
+}
+
+.list-review{
+    text-align: left;
+    
+}
+
+.comments{
+    background-color: aliceblue;
+}

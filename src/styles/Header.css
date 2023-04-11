@@ -1,0 +1,19 @@
+.header-dark, .header-light{
+    font-size: 10pt;
+    height: calc(10% - 10px);
+    text-align: center;
+    border-radius: 1px;
+    padding: 50px;
+    margin: 10px;
+    margin-bottom: 0px;
+}
+
+.header-dark {
+    color: aquamarine;
+    border: 2pt solid lightsalmon;
+}
+
+.header-light {
+    color: black;
+    border: 2pt solid black;
+}

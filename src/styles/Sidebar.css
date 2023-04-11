@@ -1,0 +1,18 @@
+.sidebar-light, .sidebar-dark{
+    width: calc(10%);
+    border-radius: 1px;
+    padding: 50px;
+    margin: 10px;
+    font-size: 10pt;
+    text-align: center;
+}
+
+.sidebar-dark{
+    color: aquamarine;
+    border: 2pt solid lightsalmon;
+}
+
+.sidebar-light{
+    color: black;
+    border: 2pt solid black;
+}

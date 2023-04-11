@@ -1,0 +1,22 @@
+.input, .prompt, .click{
+  margin-top: 30px;
+  margin: 10px;
+}
+
+.box{
+  border: 2pt solid;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.employee-list{
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+  align-items: center;
+}
+
+.list-item {
+  align-self: center;
+  text-align: center;
+}

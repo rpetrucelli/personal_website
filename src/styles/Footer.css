@@ -1,0 +1,34 @@
+.footer-light, .footer-dark{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 10pt;
+  }
+
+.footer-light{
+  color: black;
+  border: 2pt solid black;
+}
+
+.footer-dark{
+  color: aquamarine;
+  border: 2pt solid lightsalmon;
+}
+
+.footer-item-light, .footer-item-dark{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.footer-item-light{
+  color: black;
+}
+
+.footer-item-dark{
+  color:aquamarine;
+}
+.no-bullets{
+  list-style-type: none;
+  display: inline-flex;
+  align-items: center;
+}
